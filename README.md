@@ -14,7 +14,7 @@ Despues de clonar el repositorio se deben instalar las dependencias ejecutando e
 
     $ composer install
     
-En la consoloa de MYSQL cree una base de datos con el siguiente comando:
+En la consola de MYSQL cree una base de datos con el siguiente comando:
 
 
     $ mysqli -u root -p
